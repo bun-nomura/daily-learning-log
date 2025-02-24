@@ -1,1 +1,1 @@
-# Daily Learning Log
+# Coding Challenges
